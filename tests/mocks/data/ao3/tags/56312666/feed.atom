@@ -34,7 +34,7 @@
 <script src="/javascripts/livevalidation_standalone.js"></script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="HCXflOEUcSPTwdQ0m_MGrl18vUefsivW-LJEDQ2D6DMYN-RV3qKu1vKsyivOpOcVPors_4UxVayzzYlbyJ2Ccg" />
+<meta name="csrf-token" content="YVubMb902ZeWAaMh_3CXYLjAv4BnL8aISLsARbg5_jSn1Z-RVNq98YsNvIQcwdkKCROP3qDfdCKfwgF5bcu0pw" />
 
     
   </head>
@@ -57,7 +57,7 @@
         <a id="login-dropdown" href="/users/login?return_to=%2F404%3Fview_adult%3Dtrue">Log In</a>
       </p>
       <div id="small_login" class="simple login">
-	<form class="new_user" id="new_user_session_small" action="/users/login?return_to=%2F404%3Fview_adult%3Dtrue" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KdVEkqmI5I9oNlu0usZkEBhmAhB3LI2jTWizVpjXQFi_uzM23W4ZUYLUyqsBvNzuVCdJkTpBwKaukDC1480lfg" autocomplete="off" />
+	<form class="new_user" id="new_user_session_small" action="/users/login?return_to=%2F404%3Fview_adult%3Dtrue" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cW4GdELycVFUqArh4czDOENl9x2YPg0bDUPyyt00HPKNzvaAiIqostcMdldgfLlWZICz0C3oHxCULA5b-jpSFg" autocomplete="off" />
   <dl>
     <dt><label for="user_session_login_small">Username or email:</label></dt>
     <dd><input autocomplete="on" id="user_session_login_small" type="text" name="user[login]" /></dd>
